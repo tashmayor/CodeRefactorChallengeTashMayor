@@ -9,6 +9,10 @@ I WANT a codebase that follows accessibility standards.
 
 SO THAT our own site is optimised for search engines.
 
+## Demo
+
+https://tashmayor.github.io/CodeRefactorChallengeTashMayor/ 
+
 ## Screenshots
 
 ![App Screenshot](01-html-css-git-challenge-demo.png)
