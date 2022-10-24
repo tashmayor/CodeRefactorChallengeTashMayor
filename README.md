@@ -9,6 +9,13 @@ I WANT a codebase that follows accessibility standards.
 
 SO THAT our own site is optimised for search engines.
 
+## What have I learnt
+The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+
+Pages made with semantic elements are much easier to read. 
+
+It has greater accessibility. It offers a better user experience.
+
 ## Demo
 https://tashmayor.github.io/CodeRefactorChallengeTashMayor/
 
